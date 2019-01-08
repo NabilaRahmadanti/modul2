@@ -1,6 +1,6 @@
 # modul2
-latihan1
 ![alt text](https://github.com/NabilaRahmadanti/modul2/blob/master/modul2/hasil%20modul2/latihan1.JPG)
+latihan1
 latihan2
 ![alt text](https://github.com/NabilaRahmadanti/modul2/blob/master/modul2/hasil%20modul2/latihan2.JPG)
 latihan3
